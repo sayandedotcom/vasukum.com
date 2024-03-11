@@ -27,6 +27,7 @@ out/
 build
 dist
 
+TODO.txt
 
 # Debug
 npm-debug.log*
